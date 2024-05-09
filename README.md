@@ -3,7 +3,7 @@
 ```javascript
 const Lucas = {
   fullName: 'Lucas Moya Jung',
-  currentOccupation: 'Student'
+  currentOccupation: 'Student',
   currentLocation: 'Santiago, Chile 🇨🇱'
 }
 ```
