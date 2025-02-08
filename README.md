@@ -3,8 +3,10 @@
 ```javascript
 const Lucas = {
   fullName: 'Lucas Moya Jung',
-  currentOccupation: 'Student',
-  currentLocation: 'Santiago, Chile 🇨🇱'
+  currentOccupation: 'Developer and Administration',
+  currentLocation: 'Santiago, Chile 🇨🇱
+  dualCitizenship: 'French 🇫🇷 and Chilean 🇨🇱'
+
 }
 ```
 <img width="1440" src="https://user-images.githubusercontent.com/80835593/223221859-9ffd4b19-137f-4790-a063-0076816f2ab3.png">
