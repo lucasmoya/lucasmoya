@@ -3,7 +3,7 @@
 ```javascript
 const Lucas = {
   fullName: 'Lucas Moya Jung',
-  currentOccupation: 'Developer and Administration',
+  currentOccupation: 'Developer and Business Administration',
   currentLocation: 'Santiago, Chile 🇨🇱',
   Citizenship: 'French 🇫🇷 and Chilean 🇨🇱'
 
