@@ -5,7 +5,7 @@ const Lucas = {
   fullName: 'Lucas Moya Jung',
   currentOccupation: 'Developer and Business Administration',
   currentLocation: 'Santiago, Chile 🇨🇱',
-  dualCitizenship: 'French 🇫🇷 and Chilean 🇨🇱'
+  dualCitizenship: 'French and Chilean'
 
 }
 ```
